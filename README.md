@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nyaashmyaash
+- 🌱 I’m Java software engineer
 - 👀 I’m interested in backend developement, microservices and DevOps magic
-- 🌱 I’m currently learning actual java frameworks and technologies
 - 💞️ I’m looking to collaborate on java projects
 - 📫 How to reach me : vkmainbox@gmail.com
 ..
